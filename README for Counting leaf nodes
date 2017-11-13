@@ -1,3 +1,4 @@
 Firstly we Develop an Function to get the count of leaf nodes in binary tree. Then we check the program with an example test program.
+
 OUTPUT:
 Leaf count of the following tree is 3
