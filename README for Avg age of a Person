@@ -1,0 +1,17 @@
+Here i Developed a Program to see Number of Persons Attended a party and Avarage Age of coresponding Persons.
+
+OUTPUT:
+Enter first persons age or -1 to quit
+24
+Enter next persons age or -1 to quit
+18
+Enter next persons age or -1 to quit
+34
+Enter next persons age or -1 to quit
+68
+Enter next persons age or -1 to quit
+73
+Enter next persons age or -1 to quit
+-1
+Number of peoople attended: 5
+Average age: 43
