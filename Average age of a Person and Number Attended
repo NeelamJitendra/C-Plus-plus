@@ -18,7 +18,7 @@ int main()
         cin >> age;
     }
 
-    cout << "Number of peoople eneted: " << numberOfPeopleEntered << endl;
+    cout << "Number of peoople attended: " << numberOfPeopleEntered << endl;
     cout << "Average age: " << ageTotal/numberOfPeopleEntered;
 
     return 0;
